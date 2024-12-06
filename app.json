@@ -9,7 +9,7 @@
   "env": {
     "PREFIX": {
       "description": "choose your prefix of bot",
-      "value": ".",
+      "value": "+",
       "required": true
     },
     "AUTO_READ_STATUS": {
